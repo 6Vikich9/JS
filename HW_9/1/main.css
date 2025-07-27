@@ -1,0 +1,27 @@
+.wrap
+{
+    background: lightskyblue;
+    color: pink;
+    font-size: medium;
+}
+
+.collapse
+{
+    background: green;
+    color: red;
+    font-size: medium;
+}
+
+.alpha
+{
+    background: lightgoldenrodyellow;
+    color: darkviolet;
+    font-size: medium;
+}
+
+.beta
+{
+    background: lightgreen;
+    color: darkorange;
+    font-size: large;
+}
